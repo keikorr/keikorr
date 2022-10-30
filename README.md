@@ -1,4 +1,4 @@
-# Olá 👋, Sou Kaio Emanuel</h1>
+# Olá 👋, sou Kaio Emanuel</h1>
 Natural de Cedro, Ceará, Brasil. Sou graduando em Engenharia de Produção Universidade Federal de Campina Grande e atualmente tenho meus estudos direcionados para Ciência de Dados e suas principais ferramentas.
 
 
