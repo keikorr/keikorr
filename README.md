@@ -5,4 +5,4 @@ Natural de Cedro, Ceará, Brasil. Sou graduando em Engenharia de Produção Univ
 
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=keikorr&show_icons=true&theme=dracula&count_private=true)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keikorr&show_icons=true&locale=en&layout=compact" alt="keikorr" /> </p>
